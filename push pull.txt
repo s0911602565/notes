@@ -1,0 +1,3 @@
+git push sunday master
+
+git pull https://github.com/s0911602565/sunday.git
